@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/dario/Desktop/VPSDM Proiect/my_axi_project/design
+vaxi_interconnect
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1736516619
+!i10b 1
+!s100 ]O5i1Mi`VSOPNLfAS3?C13
+IGl6[H=g8EE_;KOAIIR<:;3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 axi_interconnect_sv_unit
+S1
+R0
+w1736515963
+8axi_interconnect.sv
+Faxi_interconnect.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1736516619.000000
+Z6 !s107 axi_tb.sv|axi_interconnect.sv|axi_slave.sv|axi_master.sv|
+Z7 !s90 -reportprogress|300|axi_master.sv|axi_slave.sv|axi_interconnect.sv|axi_tb.sv|
+!i113 1
+Z8 tCvgOpt 0
+vaxi_master
+R1
+R2
+!i10b 1
+!s100 B<;3@284d3FYVe2Z8e@n90
+IQVDOj=mm@;;?63@5b_`7J3
+R3
+!s105 axi_master_sv_unit
+S1
+R0
+w1736253240
+8axi_master.sv
+Faxi_master.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vaxi_slave
+R1
+R2
+!i10b 1
+!s100 3<PRFDaT^n0CVW^5FRZZV3
+I0e@Tb:JcP9]XmzB`L7G2U0
+R3
+!s105 axi_slave_sv_unit
+S1
+R0
+w1736253251
+8axi_slave.sv
+Faxi_slave.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vaxi_tb
+R1
+R2
+!i10b 1
+!s100 e32gO_VD=JoiF0NjbaO6:3
+Im;I?z?GU_A@BSO0D@ioQU0
+R3
+!s105 axi_tb_sv_unit
+S1
+R0
+w1736516082
+8axi_tb.sv
+Faxi_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
