@@ -1,0 +1,82 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vaxi_master
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1736253416
+!i10b 1
+!s100 B<;3@284d3FYVe2Z8e@n90
+IGiYYSQTdmB6>]0nYPa9Rf2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 axi_master_sv_unit
+S1
+Z3 dC:/Users/dario/Desktop/my_axi_project
+w1736253240
+8C:/Users/dario/Desktop/my_axi_project/design/axi_master.sv
+FC:/Users/dario/Desktop/my_axi_project/design/axi_master.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1736253416.000000
+!s107 C:/Users/dario/Desktop/my_axi_project/design/axi_master.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dario/Desktop/my_axi_project/design/axi_master.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vaxi_slave
+R0
+R1
+!i10b 1
+!s100 3<PRFDaT^n0CVW^5FRZZV3
+IQc^@[RJ9ZM99z4kMKZi3k3
+R2
+!s105 axi_slave_sv_unit
+S1
+R3
+w1736253251
+8C:/Users/dario/Desktop/my_axi_project/design/axi_slave.sv
+FC:/Users/dario/Desktop/my_axi_project/design/axi_slave.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/dario/Desktop/my_axi_project/design/axi_slave.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dario/Desktop/my_axi_project/design/axi_slave.sv|
+!i113 1
+R6
+R7
+vaxi_tb
+R0
+R1
+!i10b 1
+!s100 oPe0;?eF@J8oFlX^lG;@C2
+I2CY^S2bNP8ANLbna<YEgm0
+R2
+!s105 axi_tb_sv_unit
+S1
+R3
+w1736253273
+8C:/Users/dario/Desktop/my_axi_project/design/axi_tb.sv
+FC:/Users/dario/Desktop/my_axi_project/design/axi_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/dario/Desktop/my_axi_project/design/axi_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dario/Desktop/my_axi_project/design/axi_tb.sv|
+!i113 1
+R6
+R7
